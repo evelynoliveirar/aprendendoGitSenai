@@ -4,8 +4,11 @@ Neste repositório aprenderei a utilizar os comandos básicos do github, assim c
 entre o repositório local para remoto.Também verei um pouco sobre as branchs. 
 # comandos básicos utilizados no git
 ### Repositório remoto 
+
 -**git remote** *permite criar, ver e excluir conexões com outros repositórios.* 
+
 -**git push** *é usado para enviar o conteúdo do repositório local para um repositório remoto.*
+
 -**git pull** *é usado para buscar e baixar conteúdo de repositórios remotos e fazer a atualização imediata ao repositório local para que os conteúdos sejam iguais.*  
 
 
